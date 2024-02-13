@@ -1,8 +1,27 @@
-This is the *Case Converter* project I made myself.
+# Case Converter Web Application
 
+## Overview
+The Case Converter Web Application is a simple tool that allows users to convert text into different cases such as UPPER CASE, lower case, Proper Case, and Sentence Case. Additionally, users can save the converted text as a .txt file.
 
-<p>We work with texts quite often, and it's very sad when it turns out that the text should have been written in a different case. Instead of editing it, you can create a simple application that does the job for us.</p><br/><br/>Learn more at <a href="https://hyperskill.org/projects/193?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card">https://hyperskill.org/projects/193</a>
+## Features
+- Convert text to UPPER CASE, lower case, Proper Case, and Sentence Case.
+- Save converted text as a .txt file.
+- Responsive design to work on various screen sizes.
 
-Here's the link to the project: https://hyperskill.org/projects/193
+## Getting Started
+To run the Case Converter Web Application locally, follow these steps:
 
-Check out my profile: https://hyperskill.org/profile/606049336
+1. Clone the repository to your local machine:
+2. Navigate to the project directory:
+3. Open the `index.html` file in your web browser to view the application.
+
+## Usage
+1. Enter text in the textarea provided.
+2. Click on the desired conversion option (UPPER CASE, lower case, Proper Case, Sentence Case).
+3. To save the converted text as a .txt file, click on the "Save Text File" button.
+4. Enjoy using the Case Converter Web Application!
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
