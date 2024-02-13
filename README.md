@@ -3,6 +3,8 @@
 ## Overview
 The Case Converter Web Application is a simple tool that allows users to convert text into different cases such as UPPER CASE, lower case, Proper Case, and Sentence Case. Additionally, users can save the converted text as a .txt file.
 
+<img src="https://github.com/ZackCornfield/Case-Converter/blob/master/screenshots/Screenshot%202024-02-13%20114448.png" width="550" height="300" style="border: 1px solid #ddd; border-radius: 5px; padding: 10px;" />
+
 ## Features
 - Convert text to UPPER CASE, lower case, Proper Case, and Sentence Case.
 - Save converted text as a .txt file.
