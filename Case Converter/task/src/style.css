@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+}
+
+.title {
+    font-size: 3vw; /* Font size will be 4% of the viewport width */
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+textarea {
+    font-size: 1.5vw;
+    width: 80vw; /* Adjusted width percentage */
+    height: 50vh;
+    padding: 10px;
+    margin-bottom: 20px;
+    resize: none;
+    box-sizing: border-box;
+}
+
+.button-wrapper {
+    display: flex;
+    justify-content: center;
+    width: 75vw; /* Set the width to match the width of the textarea */
+    margin: 0 auto; /* Center the button wrapper horizontally */
+}
+
+.button-wrapper button {
+    font-size: 1vw; /* Set font size relative to the width of the button wrapper */
+    padding: 2vh 3vw; /* Padding based on viewport units */
+    margin: 0 10px 10px 0; /* Adjust margin for proper spacing between buttons */
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button-wrapper button:hover {
+    background-color: #45a049;
+    outline: 2px solid black; /* Add outline when hovering */
+}
+
+#save-text-file {
+    background-color: #008CBA;
+}
+
+#save-text-file:hover {
+    background-color: #0077a3;
+}
