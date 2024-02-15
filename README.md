@@ -1,5 +1,7 @@
 # Case Converter Web Application
 
+Hyperskill project: https://hyperskill.org/projects/193
+
 ## Overview
 The Case Converter Web Application is a simple tool that allows users to convert text into different cases such as UPPER CASE, lower case, Proper Case, and Sentence Case. Additionally, users can save the converted text as a .txt file.
 
@@ -27,3 +29,4 @@ To run the Case Converter Web Application locally, follow these steps:
 - HTML
 - CSS
 - JavaScript
+
